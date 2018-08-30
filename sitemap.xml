@@ -19,6 +19,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/fathers-day-bacon-gifts.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/admin/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,6 +50,54 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/contact/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/dad.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/bacon.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/father.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/fathers.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/gifts.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/gift.html</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/present.html</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
