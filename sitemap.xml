@@ -43,6 +43,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/cheese-lovers.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/news/fathers-day-bacon-gifts.html</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,12 +74,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/news/deliveroo-butcher-to-bbq-service.html</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/news/cheese-lovers.html</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
