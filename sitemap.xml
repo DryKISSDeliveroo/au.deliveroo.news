@@ -19,6 +19,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/new-year-resolution.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/news/hot-cross-bao.html</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,6 +157,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/tag/healthy.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/food.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/resolution.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/goals.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/vegan.html</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/tag/beach-clean.html</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,12 +200,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/tag/free-food.html</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/tag/food.html</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
