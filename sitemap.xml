@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/yummy-mummies.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/news/deliveroo-fuels-up-with-ultimate-pit-stop.html</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,6 +157,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/doomplings.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/admin/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,6 +211,60 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/tag/mother.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/mum.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/pizza.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/yummy.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/mummies.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/free.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/deal.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/dumplings.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/doomplings.html</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/tag/movie.html</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,12 +295,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://au.deliveroo.news/tag/deal.html</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://au.deliveroo.news/tag/subscription.html</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,12 +308,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/tag/burger.html</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/tag/free.html</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -566,12 +620,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/tag/barbecue.html</loc>
-    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/tag/pizza.html</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
