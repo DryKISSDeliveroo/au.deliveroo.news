@@ -235,6 +235,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/tag/space.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/food.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/treats.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/snacks.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://au.deliveroo.news/tag/1-deals.html</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/tag/sustainability.html</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -344,12 +374,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/tag/steak.html</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/tag/food.html</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
