@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/news/restaurantsignups.html</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/news/deliveroo-elevates-safety-with-new-rider-advisory-panel.html</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -325,6 +331,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://au.deliveroo.news/tag/restaurants.html</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://au.deliveroo.news/tag/contactless.html</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,12 +530,6 @@
   </url>
   <url>
     <loc>https://au.deliveroo.news/tag/support.html</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://au.deliveroo.news/tag/restaurants.html</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
